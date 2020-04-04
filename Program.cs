@@ -14,6 +14,9 @@ namespace project1
         [STAThread]
         static void Main()
         {
+			
+			
+			fkc u sefa
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
